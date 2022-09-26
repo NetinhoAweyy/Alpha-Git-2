@@ -1,3 +1,6 @@
 Qual o seu nome?
+Joao Rodrigues Neto
 
 O que é uma branch?
+Branchs são como linhas de trabalho alternativas. Eu posso estar trabalhando em determinado projeto e, por algum motivo, criar uma branch nova e seguir com o trabalho por lá, porque se a mudança der certo, eu poderei juntar esta branch à branch principal, e se a mudança não for boa, eu posso simplesmente abandonar ou excluir a branch.
+
